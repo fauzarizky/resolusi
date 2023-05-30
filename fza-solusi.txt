@@ -1,0 +1,5 @@
+Ini adalah resolusi saya:
+res-1
+res-2
+res-3
+dst
